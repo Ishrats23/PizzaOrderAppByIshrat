@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PizzaOrderAppByIshrat</string>
+    <string name="pizza_image_description">pizza-description\n</string>
+    <string name="delivery_required">delivery-required\n</string>
+</resources>
